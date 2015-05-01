@@ -1,5 +1,9 @@
 /*.settings
-/target
+/target/classes
+/target/generated-sources
+/target/maven-archiver
+/target/maven-status
+/target/mkn-api-0.0.1-SNAPSHOT.jar.original
 /.classpath
 /.project
 /src/test
