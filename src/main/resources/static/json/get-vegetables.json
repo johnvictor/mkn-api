@@ -1,0 +1,24 @@
+{
+	"vegetables":	[
+		{
+			"thumb_nail":"images/tomato.jpg",
+			"name":"Tomato",
+			"price":"2.0"
+		},    	
+		{
+			"path":"images/brinjal.jpg",
+			"name":"Brinjal",
+			"price":"33.0"
+		},
+		{
+			"path":"images/cabbage.jpg",
+			"name":"Cabbage",
+			"price":"3.0"
+		},
+		{
+			"path":"images/spring_onion.jpg",
+			"name":"Spring Onion",
+			"price":"1.0"
+		}
+	]
+}
