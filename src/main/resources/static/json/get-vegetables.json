@@ -19,6 +19,46 @@
 			"path":"images/spring_onion.jpg",
 			"name":"Spring Onion",
 			"price":"1.0"
+		},
+		{
+			"path":"images/potato.jpg",
+			"name":"Potato",
+			"price":"1.0"
+		},
+		{
+			"path":"images/capsicum.jpg",
+			"name":"Capsicum",
+			"price":"1.0"
+		},
+		{
+			"path":"images/parwal.jpg",
+			"name":"Parwal",
+			"price":"1.0"
+		},
+		{
+			"path":"images/bottle_gourd.jpg",
+			"name":"Bottle Gourd",
+			"price":"1.0"
+		},
+		{
+			"path":"images/beetroot.jpg",
+			"name":"Beetroot",
+			"price":"1.0"
+		},
+		{
+			"path":"images/turnip.jpg",
+			"name":"Turnip",
+			"price":"1.0"
+		},
+		{
+			"path":"images/taro.jpg",
+			"name":"Taro",
+			"price":"1.0"
+		},
+		{
+			"path":"images/beans.jpg",
+			"name":"Beans",
+			"price":"1.0"
 		}
 	]
 }
